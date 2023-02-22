@@ -12,10 +12,10 @@
 #/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input flowTestWithValidOutput.mp4 --output flowTestWithValidOutput.gif --fontSize 50 --text "Verificar Flujo"
 
 
-/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input emptyFlowRun2.mp4 --output emptyFlowRun2.gif --fontSize 50 --text "Correr flujo vacío"
-/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input goalView2.mp4 --output goalView2.gif --fontSize 50 --text "Descripción Desafío"
+/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input emptyFlowRun2.mp4 --output emptyFlowRun2.gif --fontSize 50 --text "Correr flujo"
+/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input goalView2.mp4 --output goalView2.gif --fontSize 50 --text "Ver objetivo"
 /home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input outputBlockAdd2.mp4 --output outputBlockAdd2.gif --fontSize 50 --text "Agregar bloque salida"
-/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input outputBlockConfigure2.mp4 --output outputBlockConfigure2.gif --fontSize 50 --text "Editar bloque salida"
+/home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input outputBlockConfigure2.mp4 --output outputBlockConfigure2.gif --fontSize 50 --text "Editar bloque"
 /home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input flowRunWithInvalidOutput2.mp4 --output flowRunWithInvalidOutput2.gif --fontSize 50 --text "Correr flujo"
 /home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input flowTestWithInvalidOutput2.mp4 --output flowTestWithInvalidOutput2.gif --fontSize 50 --text "Verificar flujo"
 /home/jpconver/workspaces/browxy_amazon_2/cmpreqs/video/processBrowxyVideo.sh --input outputBlockConfigureFix2.mp4 --output outputBlockConfigureFix2.gif --fontSize 50 --text "Editar Flujo"
